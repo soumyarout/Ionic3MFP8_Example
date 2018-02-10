@@ -28,9 +28,9 @@ https://github.com/soumyarout/ReadPostsAdapter
 
 run 
 
-`npm install` 
-`ionic cordova platform add`
-`ionic cordova build <Platform_Name>`
-`mfpdev app register` 
-`mfpdev app preview` 
+`npm install` \n
+`ionic cordova platform add` \n
+`ionic cordova build <Platform_Name>` \n
+`mfpdev app register` \n
+`mfpdev app preview` \n
 
