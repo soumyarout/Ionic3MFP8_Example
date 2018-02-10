@@ -28,7 +28,7 @@ mfpdef adapter deploy
 
 run 
 
-npm install
+`npm install`
 ionic cordova platform add
 ionic cordova build <Platform_Name>
 mfpdev app register 
