@@ -18,7 +18,7 @@ https://github.com/soumyarout/ReadPostsAdapter
 
 1. Build and deploy adapter (ensure MFP server is running)
 
-`mfpdev adapter build`
+`mfpdev adapter build` <br />
 `mfpdef adapter deploy` 
 
 2. verify in console
@@ -28,9 +28,9 @@ https://github.com/soumyarout/ReadPostsAdapter
 
 run 
 
-`npm install`. 
-`ionic cordova platform add` .
-`ionic cordova build <Platform_Name>`. 
-`mfpdev app register` .
-`mfpdev app preview` .
+`npm install` <br />
+`ionic cordova platform add` <br />
+`ionic cordova build <Platform_Name>` <br />
+`mfpdev app register` <br />
+`mfpdev app preview` <br />
 
